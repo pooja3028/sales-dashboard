@@ -64,12 +64,6 @@ These help estimate actual earnings, return losses, and future pricing strategie
 
 ---
 
-## 🖼️ Preview (Optional)
-
-> *(You can add screenshots here if you want to show parts of the dashboard)*
-
----
-
 ## 🔒 Notes
 
 - Company name and confidential details have been removed for privacy.
