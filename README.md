@@ -4,7 +4,7 @@ This Power BI dashboard gives a full view of sales, returns, and revenue trends 
 
 ---
 
-## ✅ Key Features
+## Key Features
 
 - **Matrix View**: Sales, returns, and return rates by product sub-category
 - **Map Visualization**: Regional sales activity across zones
@@ -14,7 +14,7 @@ This Power BI dashboard gives a full view of sales, returns, and revenue trends 
 
 ---
 
-## 🧱 Data Model
+## Data Model
 
 The dashboard is built on a clean **star schema** structure:
 
@@ -29,7 +29,7 @@ This setup ensures correct filtering, better performance, and accurate DAX calcu
 
 ---
 
-## 🧠 Business Logic (Key Measures)
+## Business Logic (Key Measures)
 
 Some of the key DAX measures used:
 
@@ -46,7 +46,7 @@ These help estimate actual earnings, return losses, and future pricing strategie
 
 ---
 
-## 💡 Dashboard Use Cases
+## Dashboard Use Cases
 
 - Identify products with high return rates
 - Find top-performing sales zones
@@ -56,7 +56,7 @@ These help estimate actual earnings, return losses, and future pricing strategie
 
 ---
 
-## 📂 How to Use
+## How to Use
 
 - Download and open the `.pbix` file in **Power BI Desktop**
 - No external data source is required — data is already embedded
@@ -64,7 +64,7 @@ These help estimate actual earnings, return losses, and future pricing strategie
 
 ---
 
-## 🔒 Notes
+## Notes
 
 - Company name and confidential details have been removed for privacy.
 - This dashboard was created as part of a professional project. It is now shared here as a portfolio example, with permission and sensitive data hidden.
